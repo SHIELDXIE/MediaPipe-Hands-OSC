@@ -1,4 +1,4 @@
-# MediaPipe-Hands-OSC
+# MediaPipe-Hands-OSC(CHS)
 MediaPipe-Hands-OSC implements the Google MediaPipe Hand model on the browser, getting the landmarks from two hands and outputting to OSC via UDP using the [osc.js library](https://github.com/adzialocha/osc-js#osc-js).  
 MediaPipe-Hands-OSC 使用浏览器运行 Google MediaPipe 的手部识别模型，识别坐标数据后通过 OSC 发送。  
 
